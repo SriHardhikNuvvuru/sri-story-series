@@ -1,0 +1,10 @@
+{
+    "notebook.lineNumbers": "on",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "notebook.output.textLineLimit": 50,
+    "notebook.cellFocusIndicator": "gutter",
+    "notebook.showFoldingControls": "always"
+} 
